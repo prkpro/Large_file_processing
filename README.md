@@ -1,5 +1,5 @@
 # Large_file_processing
-This is assignment for Postman
+Migrating large file to Database and processing.
 
 STEPS : 
 

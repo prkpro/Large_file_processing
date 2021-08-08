@@ -61,5 +61,3 @@ Points to Achieve :
 |Aaron Allison|1|
 |Aaron Alvarado|3|
 |Aaron Alvarez|5|
-
-If given more days, I would use multiprocessing frameworks like ray or dask
